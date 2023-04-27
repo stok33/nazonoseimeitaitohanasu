@@ -1,0 +1,2 @@
+# nazonoseimeitaitohanasu
+謎の生命体と話すプログラムです　がんばって会話を続けよう
